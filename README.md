@@ -1,6 +1,6 @@
 <h3>Udacity FeedReader Testing Project</h3>
 Made By : Rupinder Kaur.
-
+<br>
 
 In this project I was given a web-based application that reads RSS feeds.<br>
 The original developer of this application clearly saw the value in testing, they've already included [Jasmine] and even started writing their first test suite!<br>Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. <br>That's where I come in.
