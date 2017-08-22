@@ -24,9 +24,9 @@ The original developer of this application clearly saw the value in testing, the
 
 1-Test at least one entry displays on load after async call<br>
 <strong>RSS Entry Change:</strong><br>
-1-Test RSS entry changes on menu select
+1-Test RSS entry changes on menu select<br>
 
 <strong>##Sources:</strong>
-To run the application: download the github repo from https://github.com/Rupinderkaur15/Udacity-FeedReader-Testing-Project and then open index.html in your browser.
-The jasmine tests will automatically run and will appear at the bottom of the page.
+To run the application: download the github repo from https://github.com/Rupinderkaur15/Udacity-FeedReader-Testing-Project and then open index.html in your browser.<br>
+The jasmine tests will automatically run and will appear at the bottom of the page.<br>
 The file for the jasmine tests are located in jasmine/spec/feedreader.js.
